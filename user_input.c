@@ -6,7 +6,7 @@
 #include <math.h>
 #include <string.h>
 
-#include "util.h"
+#include "user_input.h"
 
 
 // InputStatus in "util.h" and *error_menu[] must stay in sync

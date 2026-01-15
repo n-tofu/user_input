@@ -1,5 +1,5 @@
-#ifndef UTIL_H
-#define UTIL_H
+#ifndef USER_INPUT_H
+#define USER_INPUT_H
 
 // InputStatus and *error_menu[] in "util.c" must stay in sync
 typedef enum
